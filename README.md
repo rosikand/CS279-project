@@ -1,4 +1,4 @@
-# CS 279 Project
+# 🧫 CS 279 Project
 
 FInal project code and report for [CS279: Computational Biology](https://web.stanford.edu/class/cs279/). 
 
