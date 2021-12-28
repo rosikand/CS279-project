@@ -4,4 +4,5 @@ FInal project code and report for [CS279: Computational Biology](https://web.sta
 
 Project: "**Deep Learning for Classifying Subcellular Patterns of Proteins in Microscopic Images**". 
 
-<img src="https://user-images.githubusercontent.com/57341225/147588441-b0674ec5-647a-4de0-a5a1-d93f640103d6.png" alt="cell-photo" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/57341225/147588883-7d1d63cd-46c3-4e7c-a581-39d275f09a0c.png" alt="cell-photo" style="width:200px;"/>
+
